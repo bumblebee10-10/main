@@ -1,25 +1,25 @@
 [submodule "mod-test1"]
 	path = ext1/test1
-	url = git://git@github.com/bumblebee10-10/module
+	url = git://git@github.com/bumblebee10-10/module.git
 
 [submodule "mod-test2"]
 	path = ext2/test2
-	url = https://github.com/bumblebee10-10/module
+	url = https://github.com/bumblebee10-10/module.git
 
 [submodule "mod-test3"]
 	path = ext3/test3
-	url = ssh://git@github.com/bumblebee10-10/module
+	url = ssh://git@github.com/bumblebee10-10/module.git
 
 
 # upstreamable
 
 [submodule "embassy"]
 	path = ext/embassy
-	url = https://github.com/embassy-rs/embassy
+	url = https://github.com/embassy-rs/embassy.git
 
 [submodule "modbus-core"]
 	path = ext/modbus-core
-	url = https://github.com/slowtec/modbus-core
+	url = https://github.com/slowtec/modbus-core.git
 [submodule "submodules/example"]
 	path = submodules/example
 	url = https://github.com/marko-pnap/new-submodule.git
