@@ -1,0 +1,6 @@
+[submodule "aaa2"]
+	path = aaa2
+	url = https://github.com/bumblebee10-10/module.git
+[submodule "aa3"]
+	path = aa3
+	url = ssh://git@github.com/bumblebee10-10/module.git
