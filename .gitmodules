@@ -1,10 +1,10 @@
 [submodule "mod-test"]
 	path = ext/test1
-	url = ../bumblebee10-10/module.git
+	url = git@github.com/bumblebee10-10/module.git
 
 [submodule "mod-test2"]
 	path = ext/test2
-	url = ../bumblebee10-10/module
+	url = https://github.com/bumblebee10-10/module
 
 # upstreamable
 
