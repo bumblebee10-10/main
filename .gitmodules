@@ -28,6 +28,6 @@
 [submodule "submodules/example2"]
 	path = submodules/example
 	url = https://github.com/marko-pnap/new-submodule.git
-[submodule "submodules/example"]
-	path = submodules/example3
+[submodule "submodules/example444444"]
+	path = ext
 	url = https://github.com/marko-pnap/new-submodule.git
