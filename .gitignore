@@ -1,0 +1,6 @@
+**/*.swp
+**/*.tmp
+Cargo.lock
+assets/*.raw
+ext
+target

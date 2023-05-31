@@ -1,0 +1,13 @@
+[submodule "mod-test"]
+	path = src/test1
+	url = ../bumblebee/module.git
+
+# upstreamable
+
+[submodule "embassy"]
+	path = ext/embassy
+	url = https://github.com/embassy-rs/embassy.git
+
+[submodule "modbus-core"]
+	path = ext/modbus-core
+	url = https://github.com/slowtec/modbus-core.git
