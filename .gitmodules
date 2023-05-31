@@ -1,6 +1,29 @@
-[submodule "aaa2"]
-	path = aaa2
+[submodule "test1"]
+	path = test1aaaaaaaaaaaaa
+	url = ../bumblebee10-10/module.git
+
+[submodule "test2"]
+	path = test2222222222222222
 	url = https://github.com/bumblebee10-10/module.git
-[submodule "aa3"]
-	path = aa3
+
+[submodule "test3"]
+	path = test3aaaaaaaaaaaaaaaa
+	url = https://github.com/bumblebee10-10/module
+
+[submodule "test4"]
+	path = test4aaaaaaaaaaaa
 	url = ssh://git@github.com/bumblebee10-10/module.git
+
+
+# upstreamable
+
+[submodule "embassy"]
+	path = ext/embassy
+	url = https://github.com/embassy-rs/embassy.git
+
+[submodule "modbus-core"]
+	path = ext/modbus-core
+	url = https://github.com/slowtec/modbus-core.git
+[submodule "submodules/example"]
+	path = submodules/example
+	url = https://github.com/marko-pnap/new-submodule.git
