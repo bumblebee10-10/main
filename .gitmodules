@@ -20,3 +20,6 @@
 [submodule "modbus-core"]
 	path = ext/modbus-core
 	url = https://github.com/slowtec/modbus-core.git
+[submodule "submodules/example"]
+	path = submodules/example
+	url = https://github.com/marko-pnap/new-submodule.git
